@@ -1,1 +1,1 @@
-# Learn basic of Solidity
+# Basics of Solidity
